@@ -1,0 +1,6 @@
+{
+  "name": "Veil",
+  "description": "Crystalline Glass UI secure messenger with zero-knowledge hardware-isolated encryption and quantum session keys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
